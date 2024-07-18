@@ -1,0 +1,7 @@
+genotypename: 04_principal-component-analysis/01_input/hd.geno
+snpname: 04_principal-component-analysis/01_input/hd.snp
+indivname: 04_principal-component-analysis/01_input/hd.ind
+evecoutname: 04_principal-component-analysis/02_output/hd.evec
+evaloutname: 04_principal-component-analysis/02_output/hd.eval
+numoutlieriter: 0
+numchrom: 29

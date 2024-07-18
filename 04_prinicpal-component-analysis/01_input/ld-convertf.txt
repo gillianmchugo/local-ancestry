@@ -1,0 +1,8 @@
+genotypename:    04_principal-component-analysis/01_input/ld.bed
+snpname:         04_principal-component-analysis/01_input/ld.pedsnp
+indivname:    04_principal-component-analysis/01_input/ld.pedind
+outputformat:    EIGENSTRAT
+genotypeoutname: 04_principal-component-analysis/01_input/ld.geno
+snpoutname:      04_principal-component-analysis/01_input/ld.snp
+indivoutname:    04_principal-component-analysis/01_input/ld.ind
+numchrom:        29

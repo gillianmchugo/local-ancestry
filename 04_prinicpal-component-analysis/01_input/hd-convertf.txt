@@ -1,0 +1,8 @@
+genotypename:    04_principal-component-analysis/01_input/hd.bed
+snpname:         04_principal-component-analysis/01_input/hd.pedsnp
+indivname:    04_principal-component-analysis/01_input/hd.pedind
+outputformat:    EIGENSTRAT
+genotypeoutname: 04_principal-component-analysis/01_input/hd.geno
+snpoutname:      04_principal-component-analysis/01_input/hd.snp
+indivoutname:    04_principal-component-analysis/01_input/hd.ind
+numchrom:        29

@@ -1,0 +1,63 @@
+INDIVIDUAL SELECTION: 9 populations, 263 individuals, 263 samples
+--------------------
+
+Population: ANG - Angus
+	Chip: Illumina BovineHD
+	Samples: 42
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: GIR - Gir
+	Chip: Illumina BovineHD
+	Samples: 27
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: HOL - Holstein
+	Chip: Illumina BovineHD
+	Samples: 60
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: JER - Jersey (FR)
+	Chip: Illumina BovineHD
+	Samples: 38
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: LAG - Lagune
+	Chip: Illumina BovineHD
+	Samples: 5
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: NDA - N'Dama (G)
+	Chip: Illumina BovineHD
+	Samples: 23
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: NEL - Nelore
+	Chip: Illumina BovineHD
+	Samples: 31
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: RMG - Romagnola
+	Chip: Illumina BovineHD
+	Samples: 21
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+Population: SHK - Sheko
+	Chip: Illumina BovineHD
+	Samples: 16
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+
+
+MARKER SELECTION: 775585
+----------------
+
+Selected chromosomes: *BT1 *BT2 *BT3 *BT4 *BT5 *BT6 *BT7 *BT8 *BT9 *BT10 *BT11 *BT12 *BT13 *BT14 *BT15 *BT16 *BT17 *BT18 *BT19 *BT20 *BT21 *BT22 *BT23 *BT24 *BT25 *BT26 *BT27 *BT28 *BT29 *BTMT *BTU *BTX *BTY

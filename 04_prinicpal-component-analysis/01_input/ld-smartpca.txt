@@ -1,0 +1,7 @@
+genotypename: 04_principal-component-analysis/01_input/ld.geno
+snpname: 04_principal-component-analysis/01_input/ld.snp
+indivname: 04_principal-component-analysis/01_input/ld.ind
+evecoutname: 04_principal-component-analysis/02_output/ld.evec
+evaloutname: 04_principal-component-analysis/02_output/ld.eval
+numoutlieriter: 0
+numchrom: 29

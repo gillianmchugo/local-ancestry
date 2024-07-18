@@ -1,0 +1,15 @@
+INDIVIDUAL SELECTION: 1 populations, 2 individuals, 2 samples
+--------------------
+
+Population: OGR - Bos gaurus
+	Chip: Illumina BovineHD
+	Samples: 2
+	Project: ILLUMINA_HD
+	References: http://www.illumina.com/applications/agriculture.ilmn
+
+
+
+MARKER SELECTION: 775585
+----------------
+
+Selected chromosomes: *BT1 *BT2 *BT3 *BT4 *BT5 *BT6 *BT7 *BT8 *BT9 *BT10 *BT11 *BT12 *BT13 *BT14 *BT15 *BT16 *BT17 *BT18 *BT19 *BT20 *BT21 *BT22 *BT23 *BT24 *BT25 *BT26 *BT27 *BT28 *BT29 *BTMT *BTU *BTX *BTY
